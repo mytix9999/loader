@@ -8,7 +8,7 @@ from zipfile import ZipFile
 from time import sleep
 
 from colorama import Fore
-version = 1
+version = 2
 
 
 def getver():
